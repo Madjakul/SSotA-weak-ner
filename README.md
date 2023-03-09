@@ -1,3 +1,5 @@
 # SSotA-weak-ner
-[EN] **S**tudy of the **S**tate **o**f **t**he **A**rt of **weak** supervision on **NER** tasks : LSTMs vs Transformers.
+
+**S**tudy of the **S**tate **o**f **t**he **A**rt of **weak** supervision on **NER** tasks : LSTMs vs Transformers.
+
 ---
