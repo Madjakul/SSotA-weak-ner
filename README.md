@@ -1,2 +1,3 @@
 # SSotA-weak-ner
-[EN] Study of the State of the Art of weak supervision on NER tasks : LSTMs vs Transformers.
+[EN] **S**tudy of the **S**tate **o**f **t**he **A**rt of **weak** supervision on **NER** tasks : LSTMs vs Transformers.
+---
