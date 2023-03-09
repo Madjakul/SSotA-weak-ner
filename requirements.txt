@@ -1,0 +1,12 @@
+# Package                       Version
+# ----------------------------- ------------
+setuptools
+wheel
+numpy                           ~=1.24
+gensim                          ~=4.3
+scikit-learn                    ~=1.24
+torch                           --extra-index-url https://download.pytorch.org/whl/cu116
+datasets                        ~=2.10
+sentencepiece                   ~=0.1.97
+transformers                    ~=4.26
+wandb                           ~=0.13.11

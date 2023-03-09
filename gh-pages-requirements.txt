@@ -1,0 +1,14 @@
+# Package                       Version
+# ----------------------------- ------------
+setuptools
+wheel
+sphinx                          ~=6.1
+sphinx-rtd-theme                ~=1.2
+numpy                           ~=1.24.2
+gensim                          ~=4.3
+scikit-learn                    ~=1.2.2
+torch                           --extra-index-url https://download.pytorch.org/whl/cu116
+sentencepiece                   ~=0.1.97
+datasets                        ~=2.10
+transformers                    ~=4.26
+wandb                           ~=0.13.11
